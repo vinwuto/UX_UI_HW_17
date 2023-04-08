@@ -179,7 +179,7 @@ div {
     width: 90%;
     height: 55%;
     margin-left: 5%;
-    background-image: url(/images/stonewall_pc.png);
+    background-image: url("./images/stonewall_pc.png");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -188,7 +188,7 @@ div {
 @media screen and (max-width: 767.98px)
 {
     .stonewall_pictures {
-        background-image: url(/images/stonewall_screenshot.png);
+        background-image: url("./images/stonewall_screenshot.png");
     }
 }
 
@@ -209,7 +209,7 @@ div {
     width: 90%;
     height: 55%;
     margin-left: 5%;
-    background-image: url(/images/nsa_screenshot.png);
+    background-image: url("./images/nsa_screenshot.png");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -229,7 +229,7 @@ div {
     width: 90%;
     height: 55%;
     margin-left: 5%;
-    background-image: url(/images/furminder_screenshot.PNG);
+    background-image: url("./images/furminder_screenshot.PNG");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
